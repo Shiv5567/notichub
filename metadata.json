@@ -1,0 +1,5 @@
+{
+  "name": "Nepal Notice Hub",
+  "description": "A comprehensive portal for government and non-government notices, exam results, Loksewa preparation, and PDF resources in Nepal. Featuring Cloudflare Workers backend, D1 database, and Firebase authentication.",
+  "requestFramePermissions": []
+}
